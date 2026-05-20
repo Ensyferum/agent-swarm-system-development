@@ -1,0 +1,8 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "description": "Registro de demandas recebidas por Massuia. Mantido automaticamente pelo agente Supervisor.",
+    "lastUpdated": null
+  },
+  "demands": []
+}
